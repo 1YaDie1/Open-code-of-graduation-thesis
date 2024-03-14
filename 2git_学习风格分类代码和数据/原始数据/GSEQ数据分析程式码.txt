@@ -1,0 +1,13 @@
+Event
+($Action = A B C D E F G H I J K L)
+Type(Clinice Control);
+
+% id#1
+A	C	D	G	H	F	G	H	F	G	H	F	G	E	L	A	C	G	H	F	G	H	F	G	H	F	G	H	J;
+
+% id#2
+A	C	G	H	L	G	H	F	G	H	I	G	H	F	G	H	I	G	H	F	G	H	D	G	H	E	G	H	F	G	H	L;
+
+
+
+
